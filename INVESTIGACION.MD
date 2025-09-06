@@ -18,7 +18,7 @@ ex:
 
 <a href="https://trello.com/b/8HnVBVmF/mi-tablero-de-trello">   Visitar </a>
 
-href es el atributo,"https://openai.com" es un valor le dice a la maquina donde llevar ese enlace.
+href es el atributo,"/trello.com/b/8HnVBVmF" es un valor le dice a la maquina donde llevar ese enlace.
 
 2. El Poder de la Semántica
 HTML Semántico
