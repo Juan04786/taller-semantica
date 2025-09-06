@@ -16,7 +16,7 @@ ex: </p> cierra el párrafo que el cual comenzo con el elemento <p>
 Este proporciona informacion adicional sobre un elemento HTML este se escribe dentro de la etiqueta d eapertura y simerpre tiene un nombre y un valor. 
 ex: 
 
-<a href="https://openai.com">Visitar OpenAI</a>
+<a href="https://trello.com/b/8HnVBVmF/mi-tablero-de-trello">   Visitar </a>
 
 href es el atributo,"https://openai.com" es un valor le dice a la maquina donde llevar ese enlace.
 
