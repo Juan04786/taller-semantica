@@ -50,7 +50,7 @@ Porque los motores de búsqueda como Google entienden mejor el contenido y su je
 |                        |   jerarquía        |
 +------------------------+--------------------+
 |            MEJORA LA EXPERIENCIA DEL USUARIO            |
-+----------------------------------------------------------+
++-----------------------------------------------------
 
 Diccionario de Etiquetas Semánticas
 1: <header>:
