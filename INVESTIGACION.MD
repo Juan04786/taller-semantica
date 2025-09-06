@@ -7,7 +7,7 @@ Etiqueta de Apertura y Cierre
 Es la parte inicial de una etiqueta HTML por la cual da el comienzo de un elemento
 ex: HTML <p> este le dice al sistema o programa que va a comnenzar un párrafo. 
 
-¿Qué es una etiqueta de cierre?
+¿Qué es una etiqueta de cierre 
 
 Es la parte final que indica el contenido del elemento. 
 ex: </p> cierra el párrafo que el cual comenzo con el elemento <p>
