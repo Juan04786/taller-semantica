@@ -71,7 +71,7 @@ Puedes tener varios <header> en una página (uno por cada sección importante si
 
 Ayuda a estructurar el contenido y mejorar la comprensión tanto para usuarios como para buscadores.  
 <header>
-  <h1>Mi Blog Personal</h1>
+  <h1>Mi Blog Personal
   <p>Compartiendo ideas y proyectos</p>
 </header>
 
