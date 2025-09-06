@@ -143,9 +143,9 @@ Propósito:
 Genera una lista ordenada, donde el orden de los elementos sí importa (numeración automática).
 Ejemplo en HTML:
 <ol>
-  <li>Instalar el programa</li>
-  <li>Configurar opciones</li>
-  <li>Empezar a usar</li>
+  <li>Instalar el programa
+  <li>Configurar opciones</l
+  <li>Empezar a usar</li
 </ol>
 
 12: <li> 
